@@ -1,6 +1,6 @@
 module github.com/jackmordaunt/wmi
 
-go 1.13
+go 1.18
 
 require (
 	github.com/go-ole/go-ole v1.2.6
